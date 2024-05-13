@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304580503144",
+    "project_id": "dallitravels",
+    "storage_bucket": "dallitravels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304580503144:android:500568a426c468f8b5bddd",
+        "android_client_info": {
+          "package_name": "com.example.dallitravels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fg9GO_D_34ZrSIXA3Wn1HMopPJWi6r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
